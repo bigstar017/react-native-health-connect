@@ -3,3 +3,4 @@
 
 1. npx expo prebuild --platform android --clean
 2. npx expo run:android   //   npx expo run:android -d
+3. expo start --tunnel
